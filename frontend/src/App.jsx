@@ -27,7 +27,7 @@ import SearchWithAi from './pages/SearchWithAi'
 import getAllReviews from './customHooks/getAllReviews'
 
 // export const serverUrl = "http://localhost:8000"
-export const serverUrl = "https://ro-academic-x.vercel.app"
+export const serverUrl = "https://ro-academic-x.onrender.com"
 
 function App() {
   
